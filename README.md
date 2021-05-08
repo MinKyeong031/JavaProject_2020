@@ -1,1 +1,1 @@
-# JAVA/Cafe
+# JAVA/Cafe 프로젝트
